@@ -1,6 +1,6 @@
 # Sprint EDGE
 
-![Licença](https://img.shields.io/badge/licença-MIT-brightgreen.svg) ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
 
 ## Descrição
 
