@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-##Integrantes =
+## Integrantes =
 - int1
 - int2
 - int3
@@ -12,7 +12,7 @@ Estamos iniciando um projeto de Internet das Coisas (IoT) para desenvolver um si
 
 ## Índice
 
-- [Tecnologias](#tecnologias)
+- [Como faremos?](#comofaremos)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
