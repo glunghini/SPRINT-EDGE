@@ -6,13 +6,11 @@
 
 Este projeto tem como objetivo integrar sensores de temperatura e velocidade a um site utilizando tecnologia em nuvem. Através desse sistema, buscamos oferecer uma visualização em tempo real dos dados coletados, tornando o monitoramento ambiental mais acessível e prático.
 
-## Fotos do Projeto
+## Exemplos
 
-![Foto do Projeto 1](link-da-foto-1)  
-*Descrição da foto 1*
-
-![Foto do Projeto 2](link-da-foto-2)  
-*Descrição da foto 2*
+![Foto 1](https://www.thedrive.com/wp-content/uploads/2024/05/31/2488620_20240528230757_1-copy.jpg?strip=all&quality=85)  
+Buscamos atingir que a corrida seja exibida desse método gameficado simulando um videogame mostrando como o pioto está na corrida.
+Essa foto usada como exemplo é do jogo F1 2024.
 
 ## Facilidades
 
