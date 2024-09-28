@@ -29,8 +29,9 @@ Este projeto tem como objetivo integrar sensores de temperatura e velocidade a u
 
 ## Integrantes
 
-- **Nome 1** - [Perfil 1](https://github.com/usuario1)
-- **Nome 2** - [Perfil 2](https://github.com/usuario2)
-- **Nome 3** - [Perfil 3](https://github.com/usuario3)
+- **Nome 1 RM55**
+- **Nome 2 RM55**
+- **Nome 3 RM55**
+- **Nome 4 RM55**
 
 
