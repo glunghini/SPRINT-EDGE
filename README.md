@@ -29,9 +29,9 @@ Este projeto tem como objetivo integrar sensores de temperatura e velocidade a u
 
 ## Integrantes
 
-- **Nome 1 RM55**
-- **Nome 2 RM55**
-- **Nome 3 RM55**
-- **Nome 4 RM55**
+- **Matheus Ricciotti RM556930**
+- **Matheus Bortolotto RM555189**
+- **Guilherme Lunghini Teixeira RM556892**
+- **Luan Ramos Garcia de Souza RM558537**
 
 
