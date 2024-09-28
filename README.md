@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Sprint EDGE
 
 ## Integrantes =
 - int1
@@ -25,18 +25,7 @@ Faremos isso através de sensores que enviam as informações para nossa nuvem e
 
 ## Instalação
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/usuario/nome-do-projeto.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-projeto
-    ```
-3. Instale as dependências:
-    ```bash
-    npm install
-    ```
+
 
 ## Uso
 
