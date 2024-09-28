@@ -1,35 +1,36 @@
 # Sprint EDGE
 
-## Integrantes =
-- int1
-- int2
-- int3
-- int4
+![Licença](https://img.shields.io/badge/licença-MIT-brightgreen.svg) ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
 
 ## Descrição
 
-Estamos iniciando um projeto de Internet das Coisas (IoT) para desenvolver um sistema que monitore temperatura e velocidade em tempo real. Nosso objetivo é criar um site intuitivo onde os usuários possam acessar esses dados de forma fácil e acessível.
+Este projeto tem como objetivo integrar sensores de temperatura e velocidade a um site utilizando tecnologia em nuvem. Através desse sistema, buscamos oferecer uma visualização em tempo real dos dados coletados, tornando o monitoramento ambiental mais acessível e prático.
 
-## Índice
+## Fotos do Projeto
 
-- [Como faremos?](#comofaremos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
+![Foto do Projeto 1](link-da-foto-1)  
+*Descrição da foto 1*
 
-## Como faremos?
+![Foto do Projeto 2](link-da-foto-2)  
+*Descrição da foto 2*
 
-Faremos isso através de sensores que enviam as informações para nossa nuvem e assim que podemos integra-la com o site para que as informações obtidas por ela sejam enviadas ao site assim fazendo com que os consumidores que buscam acessa-las de maneira facil consigam isso.
+## Facilidades
 
-## Instalação
+- **Acesso em Tempo Real**: Visualização instantânea dos dados coletados.
+- **Interface Intuitiva**: Design amigável que facilita a navegação.
+- **Armazenamento em Nuvem**: Dados seguros e acessíveis de qualquer lugar.
+- **Compatibilidade**: Funciona em diferentes dispositivos e navegadores.
+
+## Tecnologias
+
+- **Sensores**: Sensores de temperatura e velocidade.
+- **Nuvem**: Plataforma em nuvem para armazenamento e processamento de dados.
+- **Desenvolvimento Web**: HTML, CSS, JavaScript e frameworks para a interface do usuário.
+
+## Integrantes
+
+- **Nome 1** - [Perfil 1](https://github.com/usuario1)
+- **Nome 2** - [Perfil 2](https://github.com/usuario2)
+- **Nome 3** - [Perfil 3](https://github.com/usuario3)
 
 
-
-## Uso
-
-Para rodar o projeto, utilize o seguinte comando:
-
-```bash
-npm start
