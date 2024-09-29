@@ -26,9 +26,9 @@ Essa foto usada como exemplo é do jogo F1 2024.
 - **Desenvolvimento Web**: HTML, CSS, JavaScript e frameworks para a interface do usuário.
 
 ## Código Fonte
-'''
-#Ainda não desenvolvemos nenhum código, tudo que usamos foi fiware do Cabrini que pode ser achado no link: https://github.com/fabiocabrini/fiware
-'''
+
+- **Ainda não desenvolvemos nenhum código, tudo que usamos foi fiware do Cabrini que pode ser achado no link: https://github.com/fabiocabrini/fiware
+
 
 ## Integrantes
 
